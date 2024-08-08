@@ -1,16 +1,17 @@
-- 👋 Hi, I’m @jislein
+<h1 align="center">Hello 👋, I'm Jislein </h1>
+<h3 align="center">I like to do stuff related to programming, gamedev, animation and music.</h3>
+
 - 👀 I’m interested in:
     - 😎 Programming
     - 🕹️ [Game Development](https://saeltny.itch.io/)
-    - 🎨 [3D/2D Animation](https://www.youtube.com/@saeltny) 
+    - 🎨 [3D/2D Animation](https://www.youtube.com/@saeltny)
+    - 🎹 Electronic music making 
 - 🌱 I’m currently learning:
-    - 💻 Web Development
+    - 💻 Web Development  
     - ⚙️ Godot Game Engine
     - 🐍 Python
-- 💞️ I’m looking to collaborate on: Maybe someday...
 - 📫 How to reach me: working on it...
-- 😄 I was born a human male.
-- ⚡ Fun fact: ...
+
 
 <!---
 jislein/jislein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
