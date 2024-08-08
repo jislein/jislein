@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning:
     - 💻 Web Development
     - ⚙️ Godot Game Engine
+    - 🐍 Python
 - 💞️ I’m looking to collaborate on: Maybe someday...
 - 📫 How to reach me: working on it...
 - 😄 I was born a human male.
