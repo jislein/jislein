@@ -4,8 +4,8 @@
     - 🕹️ [Game Development](https://saeltny.itch.io/)
     - 🎨 [3D/2D Animation](https://www.youtube.com/@saeltny) 
 - 🌱 I’m currently learning:
-    - Web Development
-    - Godot Game Engine
+    - 💻 Web Development
+    - ⚙️ Godot Game Engine
 - 💞️ I’m looking to collaborate on: small, not very complex projects where you need an extra brain or pair of hands
 - 📫 How to reach me: working on it...
 - 😄 I was born a human male.
