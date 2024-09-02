@@ -7,7 +7,8 @@
     - 🎨 [3D/2D Animation](https://www.youtube.com/@saeltny)
     - 🎹 Electronic music making 
 - 🌱 I’m currently learning:
-    - 💻 [Web Development](https://github.com/jislein/bootcamp-full-stack-developer)  
+    - 📜 JavaScript
+    - 💻 Web Development
     - ⚙️ Godot Game Engine
     - 🐍 Python
 - 📫 How to reach me: working on it...
