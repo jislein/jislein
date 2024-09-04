@@ -7,10 +7,9 @@
     - 🎨 [3D/2D Animation](https://www.youtube.com/@saeltny)
     - 🎹 Electronic music making 
 - 🌱 I’m currently learning:
+    - 🗄️ SQL
     - 📜 JavaScript
-    - 💻 Web Development
-    - ⚙️ Godot Game Engine
-    - 🐍 Python
+    - 💻 Web Development    
 - 📫 How to reach me: working on it...
 
 ![Profile views](https://hit.yhype.me/github/profile?user_id=177765764)
