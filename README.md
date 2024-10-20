@@ -6,9 +6,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jislein&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jislein&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jislein&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=jislein&icon=3&color=3)](https://visitcount.itsvg.in)
 
